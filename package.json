@@ -1,0 +1,9 @@
+{
+  "name": "react-native-input",
+  "version": "1.0.0",
+  "description": "React Native Input Component",
+  "main": "index.js",
+  "repository": "https://github.com/andresmichel/react-native-input",
+  "author": "Andres Michel",
+  "license": "MIT"
+}
