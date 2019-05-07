@@ -1,5 +1,5 @@
 {
-  "name": "react-native-input",
+  "name": "react-native-input-box",
   "version": "0.1.0",
   "description": "React Native Input Component",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "ui",
     "input"
   ],
-  "repository": "https://github.com/andresmichel/react-native-input",
+  "repository": "https://github.com/andresmichel/react-native-input-box",
   "author": "Andres Michel",
   "license": "MIT",
   "dependencies": {
