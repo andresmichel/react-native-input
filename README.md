@@ -1,4 +1,4 @@
-# react-native-input
+# react-native-input-box
 
 ## Getting Started
 
@@ -8,7 +8,7 @@
 ### Installation
 
 ```bash
-$ yarn add https://github.com/andresmichel/react-native-input
+$ npm install react-native-input-box
 ```
 
 ### Properties
